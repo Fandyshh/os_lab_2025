@@ -35,8 +35,7 @@
 
 1. Работа виртуальной памяти.
 
-Скомпилировать process_memory.c. Объяснить, за что отвечают переменные `etext`, `edata`, `end`.
-
+Скомпилировать process_memory.c. 
 ### Ресурсы
 
 1. [etext, edata, end](https://linux.die.net/man/3/edata)
